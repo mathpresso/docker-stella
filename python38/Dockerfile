@@ -29,4 +29,4 @@ RUN apt-get install -y supervisor
 
 # install uwsgi
 RUN apt-get install -y python3-pip
-RUN pip3 install uwsgip
+RUN pip3 install uwsgi
